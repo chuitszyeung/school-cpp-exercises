@@ -1,5 +1,5 @@
 # school-cpp-exercises
-This Github repository includes the following exercises and quizzes:
+This Github repository includes the following exercises and quizzes:<br/>
 Ex 1: Using onlinegdb.com<br/>
 Ex 2: Temperature conversion (C to F)<br/>
 Ex 3: Pythagoras Theorem<br/>
