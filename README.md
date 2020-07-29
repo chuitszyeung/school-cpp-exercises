@@ -10,3 +10,4 @@ Ex 7: Simple Number Guessing Game<br/>
 Ex 8: Right-Angled Triangle<br/>
 Ex 9 and Quiz 1: Sum of Principal and Interest<br/>
 Ex 10 and Quiz 2: Sum of a series of integers<br/>
+All exercises/quizzes can be found in school-cpp-exercises/code/Ex(number).
